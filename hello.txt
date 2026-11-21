@@ -1,1 +1,1 @@
-Hello from feature branch
+Версия из ветки feature
